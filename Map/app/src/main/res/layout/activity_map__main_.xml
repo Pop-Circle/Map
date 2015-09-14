@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp" tools:context=".Map_Main_Activity"
+    android:background="#ffffff"
+    android:weightSum="1"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#0660F2"
+        android:gravity="center_horizontal"
+        android:elevation="5dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout">
+
+        <AutoCompleteTextView
+            android:layout_width="315dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/search"
+            android:hint="Search..." />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#b4b4b4"
+        android:id="@+id/Map"></RelativeLayout>
+
+</RelativeLayout>
