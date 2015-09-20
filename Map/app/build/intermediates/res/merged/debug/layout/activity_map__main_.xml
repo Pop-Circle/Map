@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp" tools:context=".Map_Main_Activity"
+    android:background="#ffffff"
+    android:weightSum="1"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#0660F2"
+        android:gravity="center_horizontal"
+        android:elevation="5dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout">
+
+        <AutoCompleteTextView
+            android:layout_width="315dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/search"
+            android:hint="Search..." />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:id="@+id/imageViewMap"
+            android:layout_gravity="center"
+            android:scaleType="matrix"
+            android:src="@drawable/map"
+            android:contentDescription="The base map viewable to user" />
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:id="@+id/imageViewColourMap"
+            android:layout_gravity="center"
+            android:scaleType="matrix"
+            android:src="@drawable/map_colour"
+            android:visibility="invisible"
+            android:contentDescription="The base map viewable to user"
+            />
+    </FrameLayout>
+
+</RelativeLayout>
+<!-- From: file:/G:/IMY320Android/Map/Map/app/src/main/res/layout/activity_map__main_.xml -->

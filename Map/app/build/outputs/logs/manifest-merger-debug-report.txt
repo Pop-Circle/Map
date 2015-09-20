@@ -1,0 +1,54 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:2:1-21:12
+	xmlns:android
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] G:\IMY320Android\Map\Map\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] G:\IMY320Android\Map\Map\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:4:15-40
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+		INJECTED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] G:\IMY320Android\Map\Map\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] G:\IMY320Android\Map\Map\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:9:9-40
+activity#pop_circle.map.Map_Main_Activity
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:11:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from G:\IMY320Android\Map\Map\app\src\main\AndroidManifest.xml:16:27-74

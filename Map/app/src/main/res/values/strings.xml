@@ -3,4 +3,86 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="building_names">
+        <item>Administration Building</item>
+        <item>AE du Toit Auditorium</item>
+        <item>Agricultural Annexe</item>
+        <item>Agricultural Science Building</item>
+        <item>Amphitheatre</item>
+        <item>Aula and Rautenbach Hall</item>
+        <item>Bateman Building</item>
+        <item>Botany Building</item>
+        <item>Botanical Garden</item>
+        <item>Boukende/Building Science Building</item>
+        <item>Camera Obscura</item>
+        <item>CEFIM Building</item>
+        <item>Centenary Building</item>
+        <item>Chancellors Building</item>
+        <item>Chemistry Building</item>
+        <item>Client Service Centre (CSC)</item>
+        <item>Club Hall</item>
+        <item>Communication Pathology Building</item>
+        <item>Conference Centre</item>
+        <item>Drama Building</item>
+        <item>Economic and Management Science Building</item>
+        <item>Edoardo Villa Museum</item>
+        <item>Engineering Sciences 1 Building</item>
+        <item>Engineering Sciences 2 Building</item>
+        <item>Engineering Sciences 3 Building</item>
+        <item>FABI 1</item>
+        <item>FABI 2</item>
+        <item>Geography Building</item>
+        <item>Geology Museum</item>
+        <item>Graduate Centre</item>
+        <item>Heavy Machinery Labratories</item>
+        <item>Huis-en-Haard</item>
+        <item>Human Sciences Building</item>
+        <item>Information Technology Building</item>
+        <item>JJ Theron Lecture Hall</item>
+        <item>Kya Rosa</item>
+        <item>Law Building</item>
+        <item>Lecture Halls (EMS)</item>
+        <item>Lier Theatre</item>
+        <item>Louw Hall(Chancellors Building)</item>
+        <item>Mapungubwe Collection</item>
+        <item>Marketing Services Building</item>
+        <item>Masker Theatre</item>
+        <item>Mathematics Building</item>
+        <item>Mineral Sciences Building</item>
+        <item>Merensky 2 Library</item>
+        <item>Monastery Hall</item>
+        <item>Muller Hall(Chancellors Building)</item>
+        <item>Musaion</item>
+        <item>Music Building</item>
+        <item>Natural Sciences 1 Building</item>
+        <item>Natural Sciences 2 Building</item>
+        <item>North Hall(Chemistry)</item>
+        <item>Old Agricultural Building</item>
+        <item>Old Arts Building</item>
+        <item>Old Chemistry Building</item>
+        <item>Old Merensky Library</item>
+        <item>Plant Science Complex</item>
+        <item>Roos Hall(Chancellors Building)</item>
+        <item>Roosmaryn</item>
+        <item>Sci-Enza Centre</item>
+        <item>South Hall(Chemistry)</item>
+        <item>Stoneman Building</item>
+        <item>Student Affairs Building</item>
+        <item>Student Centre Building</item>
+        <item>Technical Services Building</item>
+        <item>Te Water Hall(Chancellors Building)</item>
+        <item>Theology Building</item>
+        <item>Thuto Building</item>
+        <item>Tourism House</item>
+        <item>Tukkiewerf</item>
+        <item>University Chapel</item>
+        <item>Van der Bijl Hall(Chancellors Building)</item>
+        <item>Van der Graaf Accelerator</item>
+        <item>Van Tillburg Collection</item>
+        <item>Vetman Building</item>
+        <item>Visitors Reception</item>
+        <item>Visual Arts Building</item>
+        <item>Zoology Building</item>
+    </string-array>
 </resources>
