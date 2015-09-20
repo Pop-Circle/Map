@@ -11,3 +11,7 @@
  
 2015-09-11 -Brian
   -Created base vectors for the map from the origional map of the University of Pretoria
+
+2015-09-20 -Dave
+  -Added pictures of design for classes so that the database can be read into memory for faster access
+  -Added an TXT file explaining how these classes relate to the database so that items can be converted to objects.
