@@ -1,0 +1,5 @@
+The details regarding lectures of a logged in user are read into memory from the database.
+There is an arraylist of buildings where the "lectures" arraylist in building will 
+handle lectures that the logged in user will have in a specified building.
+
+Each user has a table containing friends and a timetable.
